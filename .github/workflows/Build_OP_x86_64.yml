@@ -5,7 +5,7 @@
 # Youtube Channel: https://goo.gl/fvkdwm 
 #=================================================
 
-name: Build_x86_64（第一次编译）
+name: Build_x86_64
 
 on: 
   release:
